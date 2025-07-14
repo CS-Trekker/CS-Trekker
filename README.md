@@ -31,7 +31,7 @@
 ## 📫 联系方式
 
 - ✉️ 邮箱：2400016629hh@gmail.com / 2400016629@stu.pku.edu.cn / 386045107@qq.com
-- 🔗 [领英](https://www.linkedin.com/in/huhaopku/)
+- 🔗 [领英](https://www.linkedin.com/in/trekker/)
 
 ---
 
@@ -68,7 +68,7 @@ Welcome to my GitHub profile! 🚀
 ## 📫 How to Reach Me
 
 - ✉️ Email: 2400016629hh@gmail.com / 2400016629@stu.pku.edu.cn / 386045107@qq.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/huhaopku/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/trekker/)
 
 ---
 
