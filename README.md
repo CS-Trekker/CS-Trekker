@@ -4,7 +4,7 @@
 
 ## 👨‍🎓 关于我
 
-- 🎓 北京大学信息管理系在读学生
+- 🎓 大学在读学生
 - 💻 专注于 Java、Python、Linux 及全栈开发方向
 - 🛠️ 掌握工具和技术包括 Python、Git、Linux、前端开发基础等
 - 🚀 正在快速成长，热衷于技术实践与持续学习
@@ -28,11 +28,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CS-Trekker&theme=github-dark" alt="GitHub Streak" />
 </p>
 
-## 📫 联系方式
-
-- ✉️ 邮箱：2400016629hh@gmail.com / 2400016629@stu.pku.edu.cn / 386045107@qq.com
-- 🔗 [领英](https://www.linkedin.com/in/trekker/)
-
 ---
 
 # 👋 Hi, I'm CS-Trekker!
@@ -41,7 +36,6 @@ Welcome to my GitHub profile! 🚀
 
 ## 👨‍🎓 About Me
 
-- 🎓 Undergraduate student at Peking University, majoring in Information Management
 - 💻 Focused on Java, Python, Linux, and full-stack development
 - 🛠️ Familiar with Python, Git, Linux, and basic front-end technologies
 - 🚀 A fast-growing developer passionate about continuous learning and coding
@@ -64,11 +58,6 @@ Welcome to my GitHub profile! 🚀
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CS-Trekker&theme=github-dark" alt="GitHub Streak" />
 </p>
-
-## 📫 How to Reach Me
-
-- ✉️ Email: 2400016629hh@gmail.com / 2400016629@stu.pku.edu.cn / 386045107@qq.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/trekker/)
 
 ---
 
