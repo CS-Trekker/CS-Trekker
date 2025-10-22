@@ -1,4 +1,4 @@
-# 👋 你好，我是 CS-Trekker！
+# 👋 你好，我是 Trekker！
 
 欢迎访问我的 GitHub 主页！🚀
 
@@ -30,7 +30,7 @@
 
 ---
 
-# 👋 Hi, I'm CS-Trekker!
+# 👋 Hi, I'm Trekker!
 
 Welcome to my GitHub profile! 🚀
 
